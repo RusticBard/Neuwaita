@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="img/Neuwaita.png" width="200" height="200" alt="Logotype">
-</p>
 <h1 align="center"> Neuwaita </h1>
 <h4 align="center"> A different take on the Adwaita theme. </h4>
 
