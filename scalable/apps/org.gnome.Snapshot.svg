@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="8.5630884"
-     inkscape:cx="46.887289"
-     inkscape:cy="41.223445"
+     inkscape:zoom="4.2815442"
+     inkscape:cx="64.462723"
+     inkscape:cy="92.373214"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -230,18 +230,6 @@
          style="stop-color:#000000;stop-opacity:0.32206556;"
          offset="1"
          id="stop22" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient32"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#121212;stop-opacity:1;"
-         offset="0"
-         id="stop32" />
-      <stop
-         style="stop-color:#676767;stop-opacity:1;"
-         offset="1"
-         id="stop33" />
     </linearGradient>
     <linearGradient
        id="linearGradient2"
@@ -1170,16 +1158,6 @@
        y2="70.25"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.2897556,0,0,0.90795143,-5.8321823,-1.5562577)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient32"
-       id="linearGradient33"
-       x1="62.44553"
-       y1="24"
-       x2="89.569695"
-       y2="24"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1299974,0,0,0.90795143,-0.229072,-1.5562575)" />
     <mask
        maskUnits="userSpaceOnUse"
        id="mask84">
@@ -1653,12 +1631,8 @@
     </g>
     <path
        id="path4"
-       style="fill:#989898;fill-opacity:1;stroke-width:0.0930985"
+       style="fill:#474747;fill-opacity:1;stroke-width:0.0930985"
        d="M 54.293298,15.467143 43.437437,25.000346 H 100.74408 L 89.888217,15.467143 Z" />
-    <path
-       id="rect22"
-       style="opacity:0.5365;fill:url(#linearGradient33);fill-opacity:1;stroke-width:61.2531;stroke-linecap:round;stroke-linejoin:round"
-       d="M 54.293302,15.467833 43.43694,25.001322 h 57.30764 L 89.888218,15.467833 Z" />
     <circle
        cx="-55.784634"
        cy="89.067703"
@@ -1877,6 +1851,6 @@
     <path
        id="path12"
        style="opacity:1;fill:url(#linearGradient37);fill-opacity:1;stroke-width:61.2531;stroke-linecap:round;stroke-linejoin:round"
-       d="M 54.292969 13.46875 L 43.4375 23.001953 L 41.439453 25 L 43.4375 25 L 45.714844 23.001953 L 54.292969 15.46875 L 89.888672 15.46875 L 98.466797 23.001953 L 100.74414 25 L 102.74219 25 L 100.74414 23.001953 L 89.888672 13.46875 L 54.292969 13.46875 z " />
+       d="M 54.292969,13.46875 43.4375,23.001953 41.439453,25 H 43.4375 l 2.277344,-1.998047 8.578125,-7.533203 H 89.888672 L 98.466797,23.001953 100.74414,25 h 1.99805 L 100.74414,23.001953 89.888672,13.46875 Z" />
   </g>
 </svg>
