@@ -18,4 +18,4 @@ else
 fi
 
 gsettings set org.gnome.desktop.interface icon-theme 'Hicolor'
-gsettings set org.gnome.desktop.interface icon-theme 'Skeuowaita'
+gsettings set org.gnome.desktop.interface icon-theme 'Neuwaita'
