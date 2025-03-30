@@ -50,7 +50,7 @@ Run change-color.sh to change the folder's colors, See [Palette.txt](https://git
 
 I understand you really want the icon but when making an icon request,
 
-1. Check [here](https://github.com/Frostbitten-jello/Neuwaita/issues/7#issue-1534235372) if the icon you want is present in already or in the making.
+1. Check [here](https://github.com/RusticBard/Neuwaita/issues/7#issue-1534235372) if the icon you want is present in already or in the making.
 2. please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
 
 ## Using a fallback theme
@@ -81,4 +81,4 @@ You're searching for the [reverse domain name notation](https://en.wikipedia.org
 
 ## List of icons :
 
-[This](https://github.com/Frostbitten-jello/Neuwaita/issues/7#issue-1534235372) is a list of icons that are currently available along with icons that are currently pending to be added. You can see if your icon is present in list and if not then feel free to create an icon request :)
+[This](https://github.com/RusticBard/Neuwaita/issues/7#issue-1534235372) is a list of icons that are currently available along with icons that are currently pending to be added. You can see if your icon is present in list and if not then feel free to create an icon request :)
