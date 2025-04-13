@@ -5,6 +5,10 @@
 
 [showcase]: img/Showcase.png "Showcase image"
 
+![icons Mimes][Mimes]
+
+[Mimes]: img/Mimes.png "Showcase image"
+
 ## Installation
 
 ### User installation
