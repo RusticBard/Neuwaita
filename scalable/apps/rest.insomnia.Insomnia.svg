@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="rest.insomnia.Insomnia.svg"
    inkscape:export-filename="/home/retro/.icons/skeuowaita/scalable/apps/skeuowaita.png"
    inkscape:export-xdpi="1536"
@@ -30,9 +30,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="3.3126401"
-     inkscape:cx="51.167648"
-     inkscape:cy="28.678033"
+     inkscape:zoom="37.478244"
+     inkscape:cx="32.392126"
+     inkscape:cy="69.49365"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -651,7 +651,7 @@
        fx="66.339508"
        fy="63.181725"
        r="42.442165"
-       gradientTransform="matrix(1.0469559,0,0,1.0506769,-3.005182,-3.0500733)"
+       gradientTransform="matrix(1.4502239,0,0,1.4553782,-29.757783,-28.619797)"
        gradientUnits="userSpaceOnUse" /></defs><g
      inkscape:groupmode="layer"
      id="layer2"
@@ -733,7 +733,7 @@
        rx="44.435085" /><path
        id="path2"
        style="fill:#270c4f;fill-opacity:1;stroke-width:1.1574"
-       d="M 55.441406,14.972656 A 44.435085,44.593006 0 0 0 21.564453,58.1875 44.435085,44.593006 0 0 0 22.808594,68.177734 31.49236,31.49236 0 0 0 42.078125,74.880859 31.49236,31.49236 0 0 0 73.570312,43.388672 31.49236,31.49236 0 0 0 55.441406,14.972656 Z" /><path
+       d="M 57.453125 16.095703 A 44.435085 44.593006 0 0 0 19.564453 60.1875 A 44.435085 44.593006 0 0 0 20.005859 66.371094 A 31.49236 31.49236 0 0 0 22.802734 68.140625 A 44.435085 44.593006 0 0 0 22.808594 68.177734 A 31.49236 31.49236 0 0 0 42.078125 74.880859 A 31.49236 31.49236 0 0 0 73.570312 43.388672 A 31.49236 31.49236 0 0 0 57.453125 16.095703 z " /><path
        id="ellipse1"
        style="fill:#e3e3e3;fill-opacity:1;stroke-width:1.1574"
        d="M 49.910156 9.53125 A 52.450111 52.636524 0 0 0 12.023438 53.554688 A 31.49236 31.49236 0 0 0 40.078125 70.880859 A 31.49236 31.49236 0 0 0 71.570312 39.388672 A 31.49236 31.49236 0 0 0 49.910156 9.53125 z " /><path
