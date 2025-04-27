@@ -7,8 +7,8 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="inkscape.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="org.inkscape.Inkscape.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,9 +27,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="2.3071216"
-     inkscape:cx="49.412219"
-     inkscape:cy="92.322831"
+     inkscape:zoom="6.5255253"
+     inkscape:cx="70.798898"
+     inkscape:cy="46.049933"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -43,11 +43,11 @@
        inkscape:collect="always"
        id="linearGradient404">
       <stop
-         style="stop-color:#d7d7d7;stop-opacity:1;"
+         style="stop-color:#e5e5e5;stop-opacity:1;"
          offset="0"
          id="stop400" />
       <stop
-         style="stop-color:#f6f6f6;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="1"
          id="stop402" />
     </linearGradient>
