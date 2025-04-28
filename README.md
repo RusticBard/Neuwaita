@@ -50,7 +50,7 @@ Run change-color.sh to change the folder's colors, See [Palette.txt](https://git
 ./change-color.sh reset
 ```
 
-## Setup automatically changing folder color when accent color is changed (requires systemd on gnome? for now)
+## Setup automatically changing folder color when accent color is changed for user installation (requires systemd on gnome? for now)
 
 create a 
 ```sh
@@ -58,7 +58,7 @@ mkdir -p ~/.config/systemd/user
 nano ~/.config/systemd/user/watchAccent.service
 ```
 
-paste the following content inside the `watchAccent.service` file
+paste the following content inside the `watchAccent.service` file (make sure to change the `<username>`
 
 ```
 [Unit]
