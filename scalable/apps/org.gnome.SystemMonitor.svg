@@ -28,8 +28,8 @@
      showborder="true"
      inkscape:snap-page="true"
      inkscape:zoom="8"
-     inkscape:cx="55.8125"
-     inkscape:cy="58.1875"
+     inkscape:cx="56.875"
+     inkscape:cy="57.5625"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -40,6 +40,18 @@
      inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5"
        inkscape:collect="always">
@@ -584,6 +596,15 @@
        x2="86.306641"
        y2="39.449219"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient7"
+       x1="77.294922"
+       y1="46.947266"
+       x2="86.306641"
+       y2="46.947266"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -742,5 +763,13 @@
        y="9.0739384"
        rx="6.6680145"
        ry="7.8764434" />
+    <path
+       id="rect1"
+       style="opacity:0.551223;fill:url(#linearGradient7);fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 77.294922 45.796875 L 77.294922 48.097656 L 77.966797 48.097656 L 78.818359 48.097656 L 85.103516 48.097656 L 85.103516 48.09375 A 1.15043 1.15043 0 0 0 85.15625 48.097656 A 1.15043 1.15043 0 0 0 86.306641 46.947266 A 1.15043 1.15043 0 0 0 85.15625 45.796875 A 1.15043 1.15043 0 0 0 85.103516 45.800781 L 85.103516 45.796875 L 78.818359 45.796875 L 77.966797 45.796875 L 77.294922 45.796875 z " />
+    <path
+       id="path7"
+       style="opacity:0.551223;fill:url(#linearGradient7);fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 77.294922 45.796875 L 77.294922 48.097656 L 77.966797 48.097656 L 78.818359 48.097656 L 85.103516 48.097656 L 85.103516 48.09375 A 1.15043 1.15043 0 0 0 85.15625 48.097656 A 1.15043 1.15043 0 0 0 86.306641 46.947266 A 1.15043 1.15043 0 0 0 85.15625 45.796875 A 1.15043 1.15043 0 0 0 85.103516 45.800781 L 85.103516 45.796875 L 78.818359 45.796875 L 77.966797 45.796875 L 77.294922 45.796875 z " />
   </g>
 </svg>
