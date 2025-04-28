@@ -1,29 +1,29 @@
-blue = afdde9ff
-blue-dark = 37abc8ff
+blue = c2d9ffff
+blue-dark = 5187d8ff
 
-teal = d7f4eeff
-teal-dark = 37c8abff
+teal = bcece2ff
+teal-dark = 33b89dff
 
-green = aaffccff
-green-dark = 5fd38dff
+green = afe9c6ff
+green-dark = 46b973ff
 
-yellow = fce894ff
-yellow-dark = ddbd3dff
+yellow = ffeeaaff
+yellow-dark = d8b72fff
 
-orange = ffe6d5ff
-orange-dark = e38a4fff
+orange = ffdac1ff
+orange-dark = fa8a3fff
 
 red = ffd5d5ff
-red-dark = ff8080ff
+red-dark = f67575ff
 
-pink = f4d7e3ff
-pink-dark = de87aaff
+pink = ffd5f6ff
+pink-dark = e067c7ff
 
-purple = e5d5ffff
-purple-dark = 9955ffff
+purple = edd0f1ff
+purple-dark = a76caeff
 
-slate = dbe3e2ff
-slate-dark = 93ac9dff
+slate = e6e6e6ff
+slate-dark = 999999ff
 
 violet = d7d7f4ff
 violet-dark = 8787deff
