@@ -50,6 +50,41 @@ Run change-color.sh to change the folder's colors, See [Palette.txt](https://git
 ./change-color.sh reset
 ```
 
+## Setup automatically changing folder color when accent color is changed (requires systemd on gnome? for now)
+
+create a 
+```sh
+mkdir -p ~/.config/systemd/user                                                        
+nano ~/.config/systemd/user/watchAccent.service
+```
+
+paste the following content inside the `watchAccent.service` file
+
+```
+[Unit]
+Description=Neuwaita Accent Color Watcher
+After=graphical-session.target
+
+[Service]
+ExecStart=/home/<username>/.local/share/icons/Neuwaita/watch-accent.sh
+Restart=always
+RestartSec=3
+Environment=DISPLAY=:0
+Environment=XDG_CURRENT_DESKTOP=GNOME
+
+[Install]
+WantedBy=default.target
+```
+after saving and quitting out run the following commands :
+
+```sh
+systemctl --user daemon-reload
+systemctl --user enable watchAccent.service
+systemctl --user start watchAccent.service
+```
+
+logout and log back in to get it working :)
+
 ## Requesting new icons:
 
 I understand you really want the icon but when making an icon request,
