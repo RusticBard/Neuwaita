@@ -19,12 +19,24 @@ Clone the repository into `~/.local/share/icons/Neuwaita`:
 git clone --depth 1 git@github.com:RusticBard/Neuwaita.git ~/.local/share/icons/Neuwaita
 ```
 
+or
+
+```
+sudo git clone --depth 1 https://github.com/RusticBard/Neuwaita.git ~/.local/share/icons/Neuwaita
+```
+
 ### System-wide installation
 
 Clone the repository into `/usr/share/icons`
 
 ```
 sudo git clone --depth 1 git@github.com:RusticBard/Neuwaita.git /usr/share/icons/Neuwaita
+```
+
+or
+
+```
+sudo git clone --depth 1 https://github.com/RusticBard/Neuwaita.git /usr/share/icons/Neuwaita
 ```
 
 ## Updating
