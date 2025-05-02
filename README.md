@@ -16,7 +16,7 @@
 Clone the repository into `~/.local/share/icons/Neuwaita`:
 
 ```
-git clone --depth 1 git@github.com:RusticBard/Neuwaita.git ~/.local/share/icons/Neuwaita
+git clone --depth 1 https://github.com/RusticBard/Neuwaita.git ~/.local/share/icons/Neuwaita
 ```
 
 ### System-wide installation
@@ -24,7 +24,7 @@ git clone --depth 1 git@github.com:RusticBard/Neuwaita.git ~/.local/share/icons/
 Clone the repository into `/usr/share/icons`
 
 ```
-sudo git clone --depth 1 git@github.com:RusticBard/Neuwaita.git /usr/share/icons/Neuwaita
+sudo git clone --depth 1 https://github.com/RusticBard/Neuwaita.git /usr/share/icons/Neuwaita
 ```
 
 ## Updating
@@ -58,9 +58,10 @@ mkdir -p ~/.config/systemd/user
 nano ~/.config/systemd/user/watchAccent.service
 ```
 
-paste the following content inside the `watchAccent.service` file
+paste the following content inside the `watchAccent.service` file  
+don't forget to change `<username>`  
 
-```
+```desktop
 [Unit]
 Description=Neuwaita Accent Color Watcher
 After=graphical-session.target
@@ -99,7 +100,7 @@ You can tell system to use a fallback theme in case Neuwaita doesn't provide an 
 1. Navigate to Neuwaita installation directory (either `~/.local/share/icons/Neuwaita` or `/usr/share/icons/Neuwaita` depending on your installation)
 2. Edit `Inherits` variable in index.theme
 
-```
+```desktop
 [Icon Theme]
 Name=Neuwaita
 Comment=Neuwaita icon theme
