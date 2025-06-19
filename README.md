@@ -1,9 +1,10 @@
 <h1 align="center"> Neuwaita </h1>
 <h4 align="center"> A different take on the Adwaita theme. </h4>
-![icons showcase][showcase]
-[showcase]: img/Showcase.png "Showcase image"
-![icons Mimes][Mimes]
-[Mimes]: img/Mimes.png "Showcase image"
+
+![Showcase](https://github.com/RusticBard/Neuwaita/blob/main/img/Showcase.png)
+
+![Mimes](https://github.com/RusticBard/Neuwaita/blob/main/img/Mimes.png)
+
 ## Installation
 ### User installation
 Clone the repository into `~/.local/share/icons/Neuwaita`:
