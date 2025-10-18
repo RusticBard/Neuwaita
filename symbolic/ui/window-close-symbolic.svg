@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="window-close-symbolic.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0.99989297,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.99989297,0,1 @ F,0,1,1,0,0.99989297,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.99989297,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0.99989297,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.99989297,0,1 @ F,0,1,1,0,0.99989297,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.99989297,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,0.988282,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="-178.5"
+     inkscape:cy="62.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     id="path8"
+     style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#2e3436;fill-opacity:1;stroke-linejoin:round;paint-order:stroke fill markers;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     inkscape:label="path8"
+     d="M 4.7070312,3.7070312 C 4.4418277,3.7070595 4.1874988,3.8124444 4,4 3.6095174,4.3904826 3.6095173,5.02358 4,5.4140625 L 4.2929688,5.7070312 6.5859375,8 4,10.585938 C 3.6095176,10.97642 3.6095175,11.609518 4,12 c 0.3904826,0.390483 1.0235799,0.390483 1.4140625,0 L 8,9.4140625 10.585938,12 c 0.390482,0.390482 1.023579,0.390482 1.414062,0 0.390482,-0.390482 0.390482,-1.02358 0,-1.414062 L 9.4140625,8 11.707031,5.7070312 12,5.4140625 C 12.390483,5.0235801 12.390483,4.3904826 12,4 11.609518,3.6095176 10.976421,3.6095177 10.585938,4 L 10.292969,4.2929688 8,6.5859375 5.7070312,4.2929688 5.4140625,4 C 5.2265637,3.8124444 4.9722347,3.7070595 4.7070312,3.7070312 Z"
+     sodipodi:nodetypes="ccsccssscsssccsssccccc" />
+</svg>
