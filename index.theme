@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Neuwaita
 Comment=Neuwaita icon theme
-Inherits=Adwaita, hicolor, breeze
+Inherits=MoreWata, Adwaita, hicolor, breeze
 Example=folder
 
 # KDE Specific Stuff
@@ -3820,4 +3820,11 @@ MinSize=8
 Size=16
 MaxSize=512
 Context=Applications
+Type=Scalable
+
+[symbolic/ui]
+Context=UI
+Size=16
+MinSize=8
+MaxSize=512
 Type=Scalable
