@@ -1,10 +1,6 @@
 <h1 align="center"> Neuwaita </h1>
 <h4 align="center"> A different take on the Adwaita theme. </h4>
 
-> [!IMPORTANT]
-> **Project Status:** Archived — I’m no longer creating new icons or maintaining this theme.  
-> The repository remains available for reference and existing users.
-
 ![Showcase](https://github.com/RusticBard/Neuwaita/blob/main/img/Showcase.png)
 
 ![Mimes](https://github.com/RusticBard/Neuwaita/blob/main/img/Mimes.png)
