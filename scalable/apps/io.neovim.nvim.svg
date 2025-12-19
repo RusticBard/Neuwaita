@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="io.neovim.nvim.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,9 +28,9 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:snap-page="true"
-     inkscape:zoom="5.3946988"
-     inkscape:cx="62.6541"
-     inkscape:cy="47.453993"
+     inkscape:zoom="7.6292562"
+     inkscape:cx="36.438677"
+     inkscape:cy="95.684295"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
@@ -217,5 +217,29 @@
        fill="url(#linearGradient-2)"
        sketch:type="MSShapeGroup"
        style="fill:#689f38;fill-opacity:0.85000002;fill-rule:evenodd;stroke:none;stroke-width:0.514323" />
+    <path
+       id="path1"
+       style="fill:#d8ebc8;fill-opacity:0.85000002;fill-rule:evenodd;stroke:none;stroke-width:0.514323"
+       d="M 85.277344 6.1347656 L 85.285156 8.1445312 L 108.83984 31.8125 L 108.99414 92.054688 L 109 92.048828 L 108.83984 29.8125 L 85.277344 6.1347656 z " />
+    <path
+       id="path2"
+       style="fill:#dff0fd;fill-opacity:0.85000002;fill-rule:evenodd;stroke:none;stroke-width:0.514323"
+       d="M 42.246094 6.09375 L 19 29.5625 L 19 31.5625 L 42.246094 8.09375 L 42.246094 6.09375 z " />
+    <path
+       id="path3"
+       style="fill:#e4f3e5;fill-opacity:0.85000002;fill-rule:evenodd;stroke:none;stroke-width:0.514323"
+       d="M 42.230469 6.1113281 L 25.287109 23.226562 L 26.076172 24.427734 L 42.230469 8.1113281 L 85.574219 74.251953 L 85.566406 72.240234 L 42.230469 6.1113281 z " />
+    <path
+       id="path5"
+       style="fill:#71bbf7;fill-opacity:0.85000002;fill-rule:evenodd;stroke:none;stroke-width:0.514323"
+       d="M 19 90.019531 L 19 92.019531 L 42.246094 115.2168 L 42.246094 113.2168 L 19 90.019531 z " />
+    <path
+       id="path6"
+       style="fill:#85c689;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.514323"
+       d="M 42.246094 47.035156 L 42.246094 49.035156 L 85.753906 115.24609 L 102.66602 98.333984 L 101.875 97.125 L 85.753906 113.24609 L 42.246094 47.035156 z " />
+    <path
+       id="path4"
+       style="fill:#72ae3d;fill-opacity:0.85000002;fill-rule:evenodd;stroke:none;stroke-width:0.514323"
+       d="M 85.277344 6.1347656 L 85.753906 115.24609 L 109 92.048828 L 108.99414 90.054688 L 85.753906 113.24609 L 85.285156 6.1445312 L 85.277344 6.1347656 z " />
   </g>
 </svg>
