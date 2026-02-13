@@ -7,7 +7,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="org.gnome.Weather.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,9 +28,9 @@
      showborder="true"
      inkscape:snap-page="true"
      inkscape:zoom="6.5192592"
-     inkscape:cx="61.049881"
-     inkscape:cy="99.244405"
-     inkscape:window-width="1920"
+     inkscape:cx="60.973185"
+     inkscape:cy="74.701739"
+     inkscape:window-width="1728"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -95,7 +95,7 @@
        inkscape:collect="always"
        id="linearGradient583">
       <stop
-         style="stop-color:#ffeeaa;stop-opacity:1;"
+         style="stop-color:#fff8e0;stop-opacity:1;"
          offset="0"
          id="stop579" />
       <stop
@@ -1244,7 +1244,7 @@
        style="fill:url(#linearGradient9);fill-opacity:1;stroke-width:0.00995859" />
     <path
        id="path8"
-       style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.00995859"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.00995859"
        d="M 85.404297 58.994141 A 23.989026 23.989026 0 0 0 63.621094 72.992188 A 18.016366 18.016366 0 0 0 55.410156 70.992188 C 45.943645 71.001788 38.101357 78.345348 37.472656 87.789062 L 37.412109 87.789062 C 30.785551 87.789062 25.414062 93.160555 25.414062 99.787109 C 25.414062 106.41367 30.785551 111.78516 37.412109 111.78516 L 104.60156 111.78516 C 112.5551 111.78516 119 105.34222 119 97.388672 A 14.394136 14.394136 0 0 0 109.35938 83.814453 C 109.37738 83.538496 109.39264 83.266191 109.40234 82.990234 C 109.40234 69.736573 98.659664 58.9952 85.40625 58.994141 L 85.404297 58.994141 z M 84.638672 60.527344 C 97.122753 60.527344 107.24023 70.644826 107.24023 83.128906 C 107.23103 83.388827 107.21817 83.646329 107.20117 83.90625 A 13.557663 13.557663 0 0 1 116.28125 96.691406 C 116.28125 104.18276 110.21204 110.25195 102.7207 110.25195 L 39.435547 110.25195 C 33.194072 110.25195 28.134766 105.19266 28.134766 98.951172 C 28.134766 92.709701 33.194072 87.650391 39.435547 87.650391 L 39.492188 87.650391 C 40.084354 78.75547 47.470326 71.837125 56.386719 71.828125 A 16.969398 16.969398 0 0 1 64.121094 73.712891 A 22.594975 22.594975 0 0 1 84.638672 60.527344 z " />
   </g>
 </svg>
