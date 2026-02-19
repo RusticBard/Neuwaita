@@ -1,6 +1,13 @@
 <h1 align="center"> Neuwaita </h1>
 <h4 align="center"> A different take on the Adwaita theme. </h4>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/RusticBard">
+    <img src="https://img.shields.io/badge/Support%20the%20Bard-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+
 ![Showcase](https://github.com/RusticBard/Neuwaita/blob/main/img/Showcase.png)
 
 ![Mimes](https://github.com/RusticBard/Neuwaita/blob/main/img/Mimes.png)
@@ -95,9 +102,11 @@ You're searching for the [reverse domain name notation](https://en.wikipedia.org
 ## List of icons :
 [This](https://github.com/RusticBard/Neuwaita/issues/7#issue-1534235372) is a list of icons that are currently available along with icons that are currently pending to be added. You can see if your icon is present in list and if not then feel free to create an icon request :)
 
+
 ---
 
-If you like me work your support would be appreciated :)
+ If you like me work your support would be appreciated :)
 
 
-<a href="https://www.buymeacoffee.com/RusticBard" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<a href="https://www.buymeacoffee.com/RusticBard" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> 
