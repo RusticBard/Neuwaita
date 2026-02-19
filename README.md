@@ -70,7 +70,8 @@ logout and log back in to get it working :)
 ## Requesting new icons:
 I understand you really want the icon but when making an icon request,
 1. Check [here](https://github.com/RusticBard/Neuwaita/issues/7#issue-1534235372) if the icon you want is present in already or in the making.
-2. please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
+2. Please include the [actual name of the icon](#how-to-find-the-actual-name-of-the-icon) that you want to request.
+3. Attach an image of the original icons for the icons that you are requesting.
 ## Using a fallback theme
 You can tell system to use a fallback theme in case Neuwaita doesn't provide an icon for your app.
 1. Navigate to Neuwaita installation directory (either `~/.local/share/icons/Neuwaita` or `/usr/share/icons/Neuwaita` depending on your installation)
